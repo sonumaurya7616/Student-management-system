@@ -36,7 +36,6 @@ void enter()
 				cout<<"Enter Roll no ";
 
 				cin>>arr2[i];
-
 				cout<<"Enter course ";
 
 				cin>>arr3[i];
