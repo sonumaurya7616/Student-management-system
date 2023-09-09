@@ -13,7 +13,7 @@ void enter()
 
 		int ch=0;
 
-			cout<<"How many students do u want to enter??"<<endl;
+			cout<<"How many students do you want to enter??"<<endl;
 
 			cin>>ch;
 
@@ -27,7 +27,7 @@ void enter()
 
 			{
 
-				cout<<"\nEnter the Data of student "<<i+1<<endl<<endl;
+				cout<<"\nEnter the Data of student "<<i+1<<endl;
 
 				cout<<"Enter name ";
 
